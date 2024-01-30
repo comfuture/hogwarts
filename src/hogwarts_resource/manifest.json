@@ -1,18 +1,18 @@
 {
-    "format_version": 2,
-    "header": {
-      "description": "Hogwarts resources",
-      "name": "Hogwarts resources",
-      "uuid":"2e170ffb-7ba8-4c36-9dff-dbabe070ec26",
-      "version": [1, 0, 0],
-      "min_engine_version": [1, 16, 0]
-     },
-    "modules": [
-      {
-        "description": "My First Add-On!",
-        "type": "resources",
-        "uuid": "4d1863a1-2a3d-42c8-84ce-e6a432b7819b",
-        "version": [1, 0, 0]
-      }
-    ]
-   }
+  "format_version": 2,
+  "header": {
+    "description": "Hogwarts resources",
+    "name": "Hogwarts resources",
+    "uuid": "2e170ffb-7ba8-4c36-9dff-dbabe070ec26",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "My First Add-On!",
+      "type": "resources",
+      "uuid": "4d1863a1-2a3d-42c8-84ce-e6a432b7819b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
