@@ -20,14 +20,21 @@ and put it in your resource_packs and behavior_packs folders.
 
 ## Recipies
 
+### Empty scroll
+
+|  |  |
+| -------- | -------- | -------- |
+| Wood Stick |  |  |
+|  | Paper |  |
+| |  | Wood Stick |
+
+
 ### Return scroll
 
-====
-| Wood Stick |  |
-| --- | --- | --- |
-| | Paper |  |
-| --- | --- | --- |
-| | | Wood Stick |
-====
+|  |  |
+| -------- | -------- | -------- |
+|  | Raspi lazuli |  |
+| Raspi lazuli | Compass | Raspi lazuli |
+| Empty scroll | Empty scroll | Empty scroll |
 
 ...TBD ...
