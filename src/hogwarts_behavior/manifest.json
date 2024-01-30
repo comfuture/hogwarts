@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Enjoy the magic scrolls!",
+        "name": "Hogwarts Behavior Pack",
+        "uuid": "fe78aeb3-544c-46d3-b852-999e73ad2082",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "My First Add-On!",
+            "type": "data",
+            "uuid": "21b9a1c2-d99f-4bea-8ae2-b298ec043e4f",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "2e170ffb-7ba8-4c36-9dff-dbabe070ec26",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

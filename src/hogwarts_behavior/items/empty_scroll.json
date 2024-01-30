@@ -1,0 +1,14 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "hogwarts:empty_scroll",
+            "is_spawnable": false,
+            "is_summonable": false,
+            "is_experimental": true
+        },
+        "components": {
+            
+        }
+    }
+}
