@@ -22,18 +22,16 @@ and put it in your resource_packs and behavior_packs folders.
 
 ### Empty scroll
 
-|  |  |
-| -------- | -------- | -------- |
 | Wood Stick |  |  |
+|---|---|---|
 |  | Paper |  |
 | |  | Wood Stick |
 
 
 ### Return scroll
 
-|  |  |
-| -------- | -------- | -------- |
 |  | Raspi lazuli |  |
+| -------- | -------- | -------- |
 | Raspi lazuli | Compass | Raspi lazuli |
 | Empty scroll | Empty scroll | Empty scroll |
 
